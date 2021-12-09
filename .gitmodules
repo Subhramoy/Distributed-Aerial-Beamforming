@@ -1,0 +1,6 @@
+[submodule "beamforming_transmitter/gr-beamformer"]
+	path = beamforming_transmitter/gr-beamformer
+	url = https://github.com/Subhramoy/Distributed-Aerial-Beamforming.git
+[submodule "beamforming_receiver/gr-beamforming"]
+	path = beamforming_receiver/gr-beamforming
+	url = https://github.com/Subhramoy/Distributed-Aerial-Beamforming.git
